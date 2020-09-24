@@ -1,0 +1,31 @@
+h1 {
+color: #ffffff;
+text-align: center;
+background-color:#FF0000;
+}
+
+
+
+
+.Origami{
+background-color: #126ef6;
+border-radius: 20px;
+padding: 30px;
+margin: 25px;
+width:310px;
+}
+
+
+
+
+
+.grid{
+    background-color: #C0C0C0;
+display:flex;
+flex-wrap: wrap;
+margin:40px;
+}
+
+
+
+
